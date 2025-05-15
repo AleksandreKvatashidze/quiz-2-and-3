@@ -32,8 +32,8 @@ public class quiz2 {
             list3.add(list2.get(inputOutput(list1.get(i))));
         }
 
-        // Print the sorted list
-        System.out.println("Sorted List: " + list3);
+        // Print the resulted list
+        System.out.println("Output List: " + list3);
     }
 
     /**
